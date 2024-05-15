@@ -1,0 +1,1 @@
+virtual keyword in oop is a keyword that used to define a mathod(override or overload) in base class.
